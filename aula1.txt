@@ -1,0 +1,11 @@
+HTML
+tags <>
+Browser
+---
+https://www.ucb.br
+DNS -> resolução de nomes de domínio
+IP //ex.: IP 187.9.34.8
+IP 187.9.34.9
+Propagação do DNS
+---
+live server - extensão do vs code
