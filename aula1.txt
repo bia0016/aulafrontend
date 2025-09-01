@@ -9,3 +9,10 @@ IP 187.9.34.9
 Propagação do DNS
 ---
 live server - extensão do vs code
+
+voltar a pagina inicial 'hello2.html' no arquivo farmacia.html
+
+CSS
+    <style
+    inline
+    link (arquivo)
